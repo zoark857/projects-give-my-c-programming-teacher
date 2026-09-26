@@ -6,7 +6,7 @@ int main(){
     scanf("%d", &a);
     b = a*a;
     c = a*a*a;
-    printf("%d", b);
-    printf("%d", c);
+    printf("%d\n", b);
+    printf("%d\n", c);
     return 0;
 }
