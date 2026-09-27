@@ -9,7 +9,7 @@ int main(){
     c = a/b;
     d = a%b;
     printf("quotient is:%d\n", c);
-    printf("reminder is:%d\n", d);
+    printf("remainder is:%d\n", d);
     return 0;
     
 }
